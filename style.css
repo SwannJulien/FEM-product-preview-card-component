@@ -78,7 +78,6 @@ html {
   background-color: var(--color-secondary-light);
   width: 57rem;
   border-radius: 1rem;
-  border: 1rem solid black;
 }
 .card-picture {
   max-width: 50%;
